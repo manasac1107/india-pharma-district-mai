@@ -1,0 +1,707 @@
+nfhs_state,nfhs_district,hospital_dir_state,hospital_dir_district,match_confidence,is_parent_broadcast
+Ladakh,Kargil,,,0.0,False
+Ladakh,Leh (Ladakh),,,0.0,False
+NCT of Delhi,Central,,,0.0,False
+NCT of Delhi,East,,,0.0,False
+NCT of Delhi,New Delhi,,,0.0,False
+NCT of Delhi,North,,,0.0,False
+NCT of Delhi,North East,,,0.0,False
+NCT of Delhi,North West,,,0.0,False
+NCT of Delhi,Shahdara,,,0.0,False
+NCT of Delhi,South,,,0.0,False
+NCT of Delhi,South East,,,0.0,False
+NCT of Delhi,South West,,,0.0,False
+NCT of Delhi,West,,,0.0,False
+Andaman & Nicobar Island,Nicobar,Andaman and Nicobar Islands,,10.0,False
+Jammu & Kashmir,Reasi,Jammu and Kashmir,,22.2,False
+Sikkim,North District,Sikkim,,24.0,False
+Daman & Diu,Diu,Daman and Diu,,25.0,False
+Sikkim,West District,Sikkim,,25.0,False
+Telangana,Siddipet,Telangana,Medak,25.0,True
+Telangana,Suryapet,Telangana,Nalgonda,25.0,True
+Puducherry,Mahe,Puducherry,,28.6,False
+Arunachal Pradesh,Lohit,Arunachal Pradesh,,30.0,False
+Nagaland,Peren,Nagaland,,30.8,False
+Nagaland,Phek,Nagaland,,30.8,False
+Puducherry,Yanam,Puducherry,,30.8,False
+Tripura,Unakoti,Tripura,,30.8,False
+Manipur,Senapati,Manipur,,31.6,False
+Sikkim,South District,Sikkim,,32.0,False
+Arunachal Pradesh,Kra Daadi,Arunachal Pradesh,,33.3,False
+Jammu & Kashmir,Punch,Jammu and Kashmir,,33.3,False
+Sikkim,East District,Sikkim,,33.3,False
+Telangana,Jayashankar Bhupalapally,Telangana,Warangal,33.3,True
+Tripura,Gomati,Tripura,,33.3,False
+Assam,South Salmara Mancachar,Assam,Cachar,34.5,False
+Telangana,Bhadradri Kothagudem,Telangana,Khammam,34.5,True
+Arunachal Pradesh,Longding,Arunachal Pradesh,,34.8,False
+Jammu & Kashmir,Bandipore,Jammu and Kashmir,,35.3,False
+Manipur,Tamenglong,Manipur,,35.3,False
+Tamil Nadu,Thoothukkudi,Tamil Nadu,Theni,35.3,False
+Arunachal Pradesh,Dibang Valley,Arunachal Pradesh,,35.7,False
+Arunachal Pradesh,Anjaw,Arunachal Pradesh,,36.4,False
+Arunachal Pradesh,Kurung Kumey,Arunachal Pradesh,,36.4,False
+Arunachal Pradesh,Tirap,Arunachal Pradesh,,36.4,False
+Chhattisgarh,Balod,Chhattisgarh,Durg,36.4,True
+Gujarat,Devbhumi Dwarka,Gujarat,Jamnagar,37.0,True
+Arunachal Pradesh,Namsai,Arunachal Pradesh,,37.5,False
+Nagaland,Longleng,Nagaland,,37.5,False
+Arunachal Pradesh,West Kameng,Arunachal Pradesh,,38.1,False
+Jammu & Kashmir,Rajouri,Jammu and Kashmir,,40.0,False
+Telangana,Komaram Bheem Asifabad,Telangana,Adilabad,40.0,True
+Telangana,Nagarkurnool,Telangana,Mahabubnagar,40.0,True
+Telangana,Peddapalli,Telangana,Karimnagar,40.0,True
+Arunachal Pradesh,Lower Dibang Valley,Arunachal Pradesh,,41.2,False
+Telangana,Jogulamba Gadwal,Telangana,Mahabubnagar,41.7,True
+Telangana,Rajanna Sircilla,Telangana,Karimnagar,41.7,True
+Assam,Hojai,Assam,Kokrajhar,42.9,False
+Gujarat,Botad,Gujarat,Bhavnagar,42.9,True
+Gujarat,Morbi,Gujarat,Porbandar,42.9,False
+Jammu & Kashmir,Kishtwar,Jammu and Kashmir,,42.9,False
+Jammu & Kashmir,Shupiyan,Jammu and Kashmir,,42.9,False
+Gujarat,Chhota Udaipur,Gujarat,Vadodara,43.5,True
+Gujarat,Gir Somnath,Gujarat,Junagadh,43.5,True
+Assam,Biswanath,Assam,Sivasagar,44.4,False
+Chhattisgarh,Baloda Bazar,Chhattisgarh,Raipur,44.4,True
+Jammu & Kashmir,Ganderbal,Jammu and Kashmir,,44.4,False
+Telangana,Mancherial,Telangana,Adilabad,44.4,True
+Telangana,Yadadri Bhuvanagiri,Telangana,Nalgonda,45.2,True
+Manipur,Bishnupur,Manipur,,45.5,False
+Telangana,MedchalMalkajgiri,Telangana,Ranga Reddy,45.5,True
+Assam,Majuli,Assam,Dhemaji,46.2,False
+Jammu & Kashmir,Ramban,Jammu and Kashmir,,46.2,False
+Manipur,Ukhrul,Manipur,,46.2,False
+Meghalaya,Ribhoi,Meghalaya,,46.2,False
+Nagaland,Kiphire,Nagaland,,46.2,False
+Nagaland,Mon,Nagaland,,46.2,False
+Chhattisgarh,Janjgir - Champa,Chhattisgarh,Janjgir-Champa,46.7,False
+Assam,Hailakandi,Assam,Nalbari,47.1,False
+Madhya Pradesh,Agar Malwa,Madhya Pradesh,Shajapur,47.1,True
+Chhattisgarh,Uttar Bastar Kanker,Chhattisgarh,Bastar,48.0,True
+Uttar Pradesh,Jyotiba Phule Nagar,Uttar Pradesh,Ambedkar Nagar,48.5,False
+Arunachal Pradesh,West Siang,Arunachal Pradesh,,50.0,False
+Assam,Baksa,Assam,Barpeta,50.0,False
+Chhattisgarh,Gariyaband,Chhattisgarh,Raipur,50.0,True
+Chhattisgarh,Sukma,Chhattisgarh,Dantewada,50.0,True
+Jammu & Kashmir,Samba,Jammu and Kashmir,,50.0,False
+Manipur,Chandel,Manipur,,50.0,False
+Punjab,Pathankot,Punjab,Patiala,50.0,False
+Telangana,Jagitial,Telangana,Warangal,50.0,False
+Telangana,Wanaparthy,Telangana,Mahabubnagar,50.0,True
+Tripura,Khowai,Tripura,,50.0,False
+Tripura,Sepahijala,Tripura,,50.0,False
+Uttar Pradesh,Amethi,Uttar Pradesh,Amroha,50.0,False
+Uttar Pradesh,Sambhal,Uttar Pradesh,Raebareli,50.0,False
+West Bengal,Hugli,West Bengal,Hooghly,50.0,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Andhra Pradesh,SPSR Nellore,51.3,False
+Madhya Pradesh,Khandwa (East Nimar),Madhya Pradesh,Khandwa,51.9,False
+Punjab,Shahid Bhagat Singh Nagar,Punjab,Sri Muktsar Sahib,52.4,False
+Chhattisgarh,Kodagaon,Chhattisgarh,Bastar,52.6,True
+Arunachal Pradesh,Changlang,Arunachal Pradesh,,53.3,False
+Assam,Charaideo,Assam,Cachar,53.3,False
+Assam,Udalguri,Assam,Nalbari,53.3,False
+Madhya Pradesh,Ashoknagar,Madhya Pradesh,Sagar,53.3,False
+Telangana,Jangoan,Telangana,Warangal,53.3,True
+Telangana,Nirmal,Telangana,Adilabad,53.3,True
+Uttar Pradesh,Bara Banki,Uttar Pradesh,Banda,53.3,False
+Uttar Pradesh,Shamli,Uttar Pradesh,Chandauli,53.3,False
+Haryana,Dadri,Haryana,Rewari,54.5,False
+Madhya Pradesh,Khargone (West Nimar),Madhya Pradesh,Khargone,55.2,False
+Punjab,Sahibzada Ajit Singh Nagar,Punjab,Sri Muktsar Sahib,55.8,False
+Assam,Chirang,Assam,Darrang,57.1,False
+Chhattisgarh,Bemetara,Chhattisgarh,Durg,57.1,True
+Chhattisgarh,Surajpur,Chhattisgarh,Surguja,57.1,True
+Jammu & Kashmir,Kupwara,Jammu and Kashmir,,57.1,False
+Maharashtra,Bid,Maharashtra,Beed,57.1,False
+Maharashtra,Mumbai Suburban,Maharashtra,Mumbai,57.1,False
+Punjab,Fazilka,Punjab,Patiala,57.1,False
+Rajasthan,Pratapgarh,Rajasthan,Hanumangarh,57.1,False
+Punjab,Muktsar,Punjab,Sri Muktsar Sahib,58.3,False
+Madhya Pradesh,Alirajpur,Madhya Pradesh,Jhabua,58.8,True
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),Uttar Pradesh,Sant Kabir Nagar,59.1,False
+Telangana,Kamareddy,Telangana,Nizamabad,60.0,True
+Uttar Pradesh,Mahamaya Nagar,Uttar Pradesh,Hathras,100.0,False
+Gujarat,Aravali,Gujarat,Sabar kantha,61.5,True
+Gujarat,The Dangs,Gujarat,Dang,61.5,False
+Madhya Pradesh,Dindori,Madhya Pradesh,Indore,61.5,False
+Uttar Pradesh,Siddharthnagar,Uttar Pradesh,Siddharth Nagar,62.1,False
+Uttar Pradesh,Rae Bareli,Uttar Pradesh,Raebareli,100.0,False
+Andaman & Nicobar Island,North & Middle Andaman,Andaman and Nicobar Islands,South Andaman,62.9,False
+Uttar Pradesh,Prayagraj,Uttar Pradesh,Allahabad,100.0,False
+Arunachal Pradesh,Siang,Arunachal Pradesh,East Siang,66.7,False
+Jammu & Kashmir,Kulgam,Jammu and Kashmir,Budgam,66.7,False
+Karnataka,Belgaum,Karnataka,Belagavi,66.7,False
+Karnataka,Mysore,Karnataka,Mysuru,66.7,False
+Madhya Pradesh,Sheopur,Madhya Pradesh,Shajapur,66.7,False
+Odisha,Debagarh,Odisha,Bargarh,66.7,False
+Odisha,Subarnapur,Odisha,Nabarangpur,66.7,False
+Telangana,Vikarabad,Telangana,Ranga Reddy,66.7,True
+West Bengal,Paschim Barddhaman,West Bengal,Bardhaman,66.7,False
+Jharkhand,Purbi Singhbhum,Jharkhand,East Singhbhum,69.0,False
+West Bengal,Purba Medinipur,West Bengal,Medinipur West,69.0,False
+Arunachal Pradesh,Upper Siang,Arunachal Pradesh,Upper Subansiri,69.2,False
+West Bengal,North Twenty Four Parganas,West Bengal,North 24 Parganas,69.8,False
+West Bengal,South Twenty Four Parganas,West Bengal,South 24 Parganas,69.8,False
+Assam,Karimganj,Assam,Marigaon,70.6,False
+Chhattisgarh,Balrampur,Chhattisgarh,Surguja,70.6,True
+Gujarat,Mahisagar,Gujarat,Panchmahal,70.6,True
+Karnataka,Bangalore,Karnataka,Bengaluru Urban,100.0,False
+Karnataka,Bijapur,Karnataka,Vijayapura,70.6,False
+Tamil Nadu,Tiruppur,Tamil Nadu,Tiruvarur,70.6,False
+West Bengal,Paschim Medinipur,West Bengal,Medinipur West,71.0,False
+Karnataka,Bellary,Karnataka,Ballari,71.4,False
+Madhya Pradesh,Mandla,Madhya Pradesh,Mandsaur,71.4,False
+West Bengal,Purba Barddhaman,West Bengal,Bardhaman,72.0,False
+Chhattisgarh,Koriya,Chhattisgarh,Korba,72.7,False
+Jharkhand,Pashchimi Singhbhum,Jharkhand,East Singhbhum,72.7,False
+Telangana,Warangal Rural,Telangana,Warangal,72.7,False
+Telangana,Warangal Urban,Telangana,Warangal,72.7,False
+West Bengal,Haora,West Bengal,Howrah,72.7,False
+Uttar Pradesh,Kanshiram Nagar,Uttar Pradesh,Kanpur Nagar,74.1,False
+Bihar,Pashchim Champaran,Bihar,East Champaran,75.0,False
+Daman & Diu,Daman,Daman and Diu,Daman,75.0,False
+Bihar,Purba Champaran,Bihar,East Champaran,75.9,False
+Arunachal Pradesh,East Kameng,Arunachal Pradesh,East Siang,76.2,False
+Telangana,Sangareddy,Telangana,Medak,76.2,True
+West Bengal,Koch Bihar,West Bengal,Cooch Behar,76.2,False
+Uttar Pradesh,Hapur,Uttar Pradesh,Hamirpur,76.9,False
+Assam,Kamrup Metropolitan,Assam,Kamrup Metro,77.4,False
+Meghalaya,North Garo Hills,Meghalaya,West Garo Hills,77.4,False
+Meghalaya,South Garo Hills,Meghalaya,West Garo Hills,77.4,False
+Telangana,Mahabubabad,Telangana,Warangal,78.3,True
+Karnataka,Bangalore Rural,Karnataka,Bengaluru Rural,80.0,False
+Odisha,Baudh,Odisha,Boudh,80.0,False
+Rajasthan,Dhaulpur,Rajasthan,Dholpur,80.0,False
+Jammu & Kashmir,Anantnag,Jammu and Kashmir,Anantnag,81.2,False
+Jammu & Kashmir,Badgam,Jammu and Kashmir,Budgam,81.2,False
+Jammu & Kashmir,Baramula,Jammu and Kashmir,Baramulla,81.2,False
+Jammu & Kashmir,Doda,Jammu and Kashmir,Doda,81.2,False
+Jammu & Kashmir,Jammu,Jammu and Kashmir,Jammu,81.2,False
+Jammu & Kashmir,Kathua,Jammu and Kashmir,Kathua,81.2,False
+Jammu & Kashmir,Pulwama,Jammu and Kashmir,Pulwama,81.2,False
+Jammu & Kashmir,Srinagar,Jammu and Kashmir,Srinagar,81.2,False
+Jammu & Kashmir,Udhampur,Jammu and Kashmir,Udhampur,81.2,False
+Madhya Pradesh,Narsimhapur,Madhya Pradesh,Narsinghpur,81.8,False
+Karnataka,Shimoga,Karnataka,Shivamogga,82.4,False
+Meghalaya,South West Garo Hills,Meghalaya,West Garo Hills,83.3,False
+Assam,West Karbi Anglong,Assam,Karbi Anglong,83.9,False
+Meghalaya,East Jaintia Hills,Meghalaya,Jaintia Hills,83.9,False
+Meghalaya,West Jaintia Hills,Meghalaya,Jaintia Hills,83.9,False
+Chhattisgarh,Kabeerdham,Chhattisgarh,Kabirdham,84.2,False
+Meghalaya,South West Khasi Hills,Meghalaya,West Khasi Hills,84.2,False
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,Dadra and Nagar Haveli,Dadra and Nagar Haveli,85.7,False
+Jharkhand,Kodarma,Jharkhand,Koderma,85.7,False
+Karnataka,Tumkur,Karnataka,Tumakuru,85.7,False
+Andaman & Nicobar Island,South Andaman,Andaman and Nicobar Islands,South Andaman,86.3,False
+Rajasthan,Chittaurgarh,Rajasthan,Chittorgarh,87.0,False
+Tamil Nadu,Kancheepuram,Tamil Nadu,Kanchipuram,87.0,False
+Assam,Morigaon,Assam,Marigaon,87.5,False
+Karnataka,Chikmagalur,Karnataka,Chikkamagaluru,88.0,False
+Uttar Pradesh,Shrawasti,Uttar Pradesh,Shravasti,88.9,False
+Tamil Nadu,Viluppuram,Tamil Nadu,Villupuram,90.0,False
+Odisha,Anugul,Odisha,Angul,90.9,False
+Rajasthan,Jalor,Rajasthan,Jalore,90.9,False
+West Bengal,Maldah,West Bengal,Malda,90.9,False
+Maharashtra,Gondiya,Maharashtra,Gondia,92.3,False
+Maharashtra,Buldana,Maharashtra,Buldhana,93.3,False
+West Bengal,Puruliya,West Bengal,Purulia,93.3,False
+Odisha,Baleshwar,Odisha,Baleswar,94.1,False
+Jharkhand,Hazaribagh,Jharkhand,Hazaribag,94.7,False
+Karnataka,Davanagere,Karnataka,Davangere,94.7,False
+Punjab,Gurudaspur,Punjab,Gurdaspur,94.7,False
+Tamil Nadu,Thiruvarur,Tamil Nadu,Tiruvarur,94.7,False
+Tamil Nadu,Thiruvallur,Tamil Nadu,Tiruvallur,95.2,False
+Uttar Pradesh,Mahrajganj,Uttar Pradesh,Maharajganj,95.2,False
+Gujarat,Banaskantha,Gujarat,Banas kantha,95.7,False
+Gujarat,Sabarkantha,Gujarat,Sabar kantha,95.7,False
+Odisha,Nabarangapur,Odisha,Nabarangpur,95.7,False
+Karnataka,Chikkaballapura,Karnataka,Chikkaballapur,96.6,False
+Himachal Pradesh,Lahul and Spiti,Himachal Pradesh,Lahaul and Spiti,96.8,False
+Andhra Pradesh,Anantapur,Andhra Pradesh,Anantapur,100.0,False
+Andhra Pradesh,Chittoor,Andhra Pradesh,Chittoor,100.0,False
+Andhra Pradesh,East Godavari,Andhra Pradesh,East Godavari,100.0,False
+Andhra Pradesh,Guntur,Andhra Pradesh,Guntur,100.0,False
+Andhra Pradesh,Krishna,Andhra Pradesh,Krishna,100.0,False
+Andhra Pradesh,Kurnool,Andhra Pradesh,Kurnool,100.0,False
+Andhra Pradesh,Prakasam,Andhra Pradesh,Prakasam,100.0,False
+Andhra Pradesh,Srikakulam,Andhra Pradesh,Srikakulam,100.0,False
+Andhra Pradesh,Visakhapatnam,Andhra Pradesh,Visakhapatnam,100.0,False
+Andhra Pradesh,Vizianagaram,Andhra Pradesh,Vizianagaram,100.0,False
+Andhra Pradesh,West Godavari,Andhra Pradesh,West Godavari,100.0,False
+Andhra Pradesh,Y.S.R.,Andhra Pradesh,Y.S.R.,100.0,False
+Arunachal Pradesh,East Siang,Arunachal Pradesh,East Siang,100.0,False
+Arunachal Pradesh,Lower Subansiri,Arunachal Pradesh,Lower Subansiri,100.0,False
+Arunachal Pradesh,Papum Pare,Arunachal Pradesh,Papum Pare,100.0,False
+Arunachal Pradesh,Tawang,Arunachal Pradesh,Tawang,100.0,False
+Arunachal Pradesh,Upper Subansiri,Arunachal Pradesh,Upper Subansiri,100.0,False
+Assam,Barpeta,Assam,Barpeta,100.0,False
+Assam,Bongaigaon,Assam,Bongaigaon,100.0,False
+Assam,Cachar,Assam,Cachar,100.0,False
+Assam,Darrang,Assam,Darrang,100.0,False
+Assam,Dhemaji,Assam,Dhemaji,100.0,False
+Assam,Dhubri,Assam,Dhubri,100.0,False
+Assam,Dibrugarh,Assam,Dibrugarh,100.0,False
+Assam,Dima Hasao,Assam,Dima Hasao,100.0,False
+Assam,Goalpara,Assam,Goalpara,100.0,False
+Assam,Golaghat,Assam,Golaghat,100.0,False
+Assam,Jorhat,Assam,Jorhat,100.0,False
+Assam,Kamrup,Assam,Kamrup,100.0,False
+Assam,Karbi Anglong,Assam,Karbi Anglong,100.0,False
+Assam,Kokrajhar,Assam,Kokrajhar,100.0,False
+Assam,Lakhimpur,Assam,Lakhimpur,100.0,False
+Assam,Nagaon,Assam,Nagaon,100.0,False
+Assam,Nalbari,Assam,Nalbari,100.0,False
+Assam,Sivasagar,Assam,Sivasagar,100.0,False
+Assam,Sonitpur,Assam,Sonitpur,100.0,False
+Assam,Tinsukia,Assam,Tinsukia,100.0,False
+Bihar,Araria,Bihar,Araria,100.0,False
+Bihar,Arwal,Bihar,Arwal,100.0,False
+Bihar,Aurangabad,Bihar,Aurangabad,100.0,False
+Bihar,Banka,Bihar,Banka,100.0,False
+Bihar,Begusarai,Bihar,Begusarai,100.0,False
+Bihar,Bhagalpur,Bihar,Bhagalpur,100.0,False
+Bihar,Bhojpur,Bihar,Bhojpur,100.0,False
+Bihar,Buxar,Bihar,Buxar,100.0,False
+Bihar,Darbhanga,Bihar,Darbhanga,100.0,False
+Bihar,Gaya,Bihar,Gaya,100.0,False
+Bihar,Gopalganj,Bihar,Gopalganj,100.0,False
+Bihar,Jamui,Bihar,Jamui,100.0,False
+Bihar,Jehanabad,Bihar,Jehanabad,100.0,False
+Bihar,Kaimur (Bhabua),Bihar,Kaimur (Bhabua),100.0,False
+Bihar,Katihar,Bihar,Katihar,100.0,False
+Bihar,Khagaria,Bihar,Khagaria,100.0,False
+Bihar,Kishanganj,Bihar,Kishanganj,100.0,False
+Bihar,Lakhisarai,Bihar,Lakhisarai,100.0,False
+Bihar,Madhepura,Bihar,Madhepura,100.0,False
+Bihar,Madhubani,Bihar,Madhubani,100.0,False
+Bihar,Munger,Bihar,Munger,100.0,False
+Bihar,Muzaffarpur,Bihar,Muzaffarpur,100.0,False
+Bihar,Nalanda,Bihar,Nalanda,100.0,False
+Bihar,Nawada,Bihar,Nawada,100.0,False
+Bihar,Patna,Bihar,Patna,100.0,False
+Bihar,Purnia,Bihar,Purnia,100.0,False
+Bihar,Rohtas,Bihar,Rohtas,100.0,False
+Bihar,Saharsa,Bihar,Saharsa,100.0,False
+Bihar,Samastipur,Bihar,Samastipur,100.0,False
+Bihar,Saran,Bihar,Saran,100.0,False
+Bihar,Sheikhpura,Bihar,Sheikhpura,100.0,False
+Bihar,Sheohar,Bihar,Sheohar,100.0,False
+Bihar,Sitamarhi,Bihar,Sitamarhi,100.0,False
+Bihar,Siwan,Bihar,Siwan,100.0,False
+Bihar,Supaul,Bihar,Supaul,100.0,False
+Bihar,Vaishali,Bihar,Vaishali,100.0,False
+Chandigarh,Chandigarh,Chandigarh,Chandigarh,100.0,False
+Chhattisgarh,Bastar,Chhattisgarh,Bastar,100.0,False
+Chhattisgarh,Bijapur,Chhattisgarh,Bijapur,100.0,False
+Chhattisgarh,Bilaspur,Chhattisgarh,Bilaspur,100.0,False
+Chhattisgarh,Dantewada,Chhattisgarh,Dantewada,100.0,False
+Chhattisgarh,Dhamtari,Chhattisgarh,Dhamtari,100.0,False
+Chhattisgarh,Durg,Chhattisgarh,Durg,100.0,False
+Chhattisgarh,Jashpur,Chhattisgarh,Jashpur,100.0,False
+Chhattisgarh,Korba,Chhattisgarh,Korba,100.0,False
+Chhattisgarh,Mahasamund,Chhattisgarh,Mahasamund,100.0,False
+Chhattisgarh,Mungeli,Chhattisgarh,Mungeli,100.0,False
+Chhattisgarh,Narayanpur,Chhattisgarh,Narayanpur,100.0,False
+Chhattisgarh,Raigarh,Chhattisgarh,Raigarh,100.0,False
+Chhattisgarh,Raipur,Chhattisgarh,Raipur,100.0,False
+Chhattisgarh,Rajnandgaon,Chhattisgarh,Rajnandgaon,100.0,False
+Chhattisgarh,Surguja,Chhattisgarh,Surguja,100.0,False
+Goa,North Goa,Goa,North Goa,100.0,False
+Goa,South Goa,Goa,South Goa,100.0,False
+Gujarat,Ahmedabad,Gujarat,Ahmedabad,100.0,False
+Gujarat,Amreli,Gujarat,Amreli,100.0,False
+Gujarat,Anand,Gujarat,Anand,100.0,False
+Gujarat,Bharuch,Gujarat,Bharuch,100.0,False
+Gujarat,Bhavnagar,Gujarat,Bhavnagar,100.0,False
+Gujarat,Dahod,Gujarat,Dahod,100.0,False
+Gujarat,Gandhinagar,Gujarat,Gandhinagar,100.0,False
+Gujarat,Jamnagar,Gujarat,Jamnagar,100.0,False
+Gujarat,Junagadh,Gujarat,Junagadh,100.0,False
+Gujarat,Kachchh,Gujarat,Kachchh,100.0,False
+Gujarat,Kheda,Gujarat,Kheda,100.0,False
+Gujarat,Mahesana,Gujarat,Mahesana,100.0,False
+Gujarat,Narmada,Gujarat,Narmada,100.0,False
+Gujarat,Navsari,Gujarat,Navsari,100.0,False
+Gujarat,Panchmahal,Gujarat,Panchmahal,100.0,False
+Gujarat,Patan,Gujarat,Patan,100.0,False
+Gujarat,Porbandar,Gujarat,Porbandar,100.0,False
+Gujarat,Rajkot,Gujarat,Rajkot,100.0,False
+Gujarat,Surat,Gujarat,Surat,100.0,False
+Gujarat,Surendranagar,Gujarat,Surendranagar,100.0,False
+Gujarat,Tapi,Gujarat,Tapi,100.0,False
+Gujarat,Vadodara,Gujarat,Vadodara,100.0,False
+Gujarat,Valsad,Gujarat,Valsad,100.0,False
+Haryana,Ambala,Haryana,Ambala,100.0,False
+Haryana,Bhiwani,Haryana,Bhiwani,100.0,False
+Haryana,Faridabad,Haryana,Faridabad,100.0,False
+Haryana,Fatehabad,Haryana,Fatehabad,100.0,False
+Haryana,Gurgaon,Haryana,Gurgaon,100.0,False
+Haryana,Hisar,Haryana,Hisar,100.0,False
+Haryana,Jhajjar,Haryana,Jhajjar,100.0,False
+Haryana,Jind,Haryana,Jind,100.0,False
+Haryana,Kaithal,Haryana,Kaithal,100.0,False
+Haryana,Karnal,Haryana,Karnal,100.0,False
+Haryana,Kurukshetra,Haryana,Kurukshetra,100.0,False
+Haryana,Mahendragarh,Haryana,Mahendragarh,100.0,False
+Haryana,Mewat,Haryana,Mewat,100.0,False
+Haryana,Palwal,Haryana,Palwal,100.0,False
+Haryana,Panchkula,Haryana,Panchkula,100.0,False
+Haryana,Panipat,Haryana,Panipat,100.0,False
+Haryana,Rewari,Haryana,Rewari,100.0,False
+Haryana,Rohtak,Haryana,Rohtak,100.0,False
+Haryana,Sirsa,Haryana,Sirsa,100.0,False
+Haryana,Sonipat,Haryana,Sonipat,100.0,False
+Haryana,Yamunanagar,Haryana,Yamunanagar,100.0,False
+Himachal Pradesh,Bilaspur,Himachal Pradesh,Bilaspur,100.0,False
+Himachal Pradesh,Chamba,Himachal Pradesh,Chamba,100.0,False
+Himachal Pradesh,Hamirpur,Himachal Pradesh,Hamirpur,100.0,False
+Himachal Pradesh,Kangra,Himachal Pradesh,Kangra,100.0,False
+Himachal Pradesh,Kinnaur,Himachal Pradesh,Kinnaur,100.0,False
+Himachal Pradesh,Kullu,Himachal Pradesh,Kullu,100.0,False
+Himachal Pradesh,Mandi,Himachal Pradesh,Mandi,100.0,False
+Himachal Pradesh,Shimla,Himachal Pradesh,Shimla,100.0,False
+Himachal Pradesh,Sirmaur,Himachal Pradesh,Sirmaur,100.0,False
+Himachal Pradesh,Solan,Himachal Pradesh,Solan,100.0,False
+Himachal Pradesh,Una,Himachal Pradesh,Una,100.0,False
+Jharkhand,Bokaro,Jharkhand,Bokaro,100.0,False
+Jharkhand,Chatra,Jharkhand,Chatra,100.0,False
+Jharkhand,Deoghar,Jharkhand,Deoghar,100.0,False
+Jharkhand,Dhanbad,Jharkhand,Dhanbad,100.0,False
+Jharkhand,Dumka,Jharkhand,Dumka,100.0,False
+Jharkhand,Garhwa,Jharkhand,Garhwa,100.0,False
+Jharkhand,Giridih,Jharkhand,Giridih,100.0,False
+Jharkhand,Godda,Jharkhand,Godda,100.0,False
+Jharkhand,Gumla,Jharkhand,Gumla,100.0,False
+Jharkhand,Jamtara,Jharkhand,Jamtara,100.0,False
+Jharkhand,Khunti,Jharkhand,Khunti,100.0,False
+Jharkhand,Latehar,Jharkhand,Latehar,100.0,False
+Jharkhand,Lohardaga,Jharkhand,Lohardaga,100.0,False
+Jharkhand,Pakur,Jharkhand,Pakur,100.0,False
+Jharkhand,Palamu,Jharkhand,Palamu,100.0,False
+Jharkhand,Ramgarh,Jharkhand,Ramgarh,100.0,False
+Jharkhand,Ranchi,Jharkhand,Ranchi,100.0,False
+Jharkhand,Sahibganj,Jharkhand,Sahibganj,100.0,False
+Jharkhand,Simdega,Jharkhand,Simdega,100.0,False
+Karnataka,Bagalkot,Karnataka,Bagalkot,100.0,False
+Karnataka,Bidar,Karnataka,Bidar,100.0,False
+Karnataka,Chamarajanagar,Karnataka,Chamarajanagar,100.0,False
+Karnataka,Chitradurga,Karnataka,Chitradurga,100.0,False
+Karnataka,Dakshina Kannada,Karnataka,Dakshina Kannada,100.0,False
+Karnataka,Dharwad,Karnataka,Dharwad,100.0,False
+Karnataka,Gadag,Karnataka,Gadag,100.0,False
+Karnataka,Gulbarga,Karnataka,Gulbarga,100.0,False
+Karnataka,Hassan,Karnataka,Hassan,100.0,False
+Karnataka,Haveri,Karnataka,Haveri,100.0,False
+Karnataka,Kodagu,Karnataka,Kodagu,100.0,False
+Karnataka,Kolar,Karnataka,Kolar,100.0,False
+Karnataka,Koppal,Karnataka,Koppal,100.0,False
+Karnataka,Mandya,Karnataka,Mandya,100.0,False
+Karnataka,Raichur,Karnataka,Raichur,100.0,False
+Karnataka,Ramanagara,Karnataka,Ramanagara,100.0,False
+Karnataka,Udupi,Karnataka,Udupi,100.0,False
+Karnataka,Uttara Kannada,Karnataka,Uttara Kannada,100.0,False
+Karnataka,Yadgir,Karnataka,Yadgir,100.0,False
+Kerala,Alappuzha,Kerala,Alappuzha,100.0,False
+Kerala,Ernakulam,Kerala,Ernakulam,100.0,False
+Kerala,Idukki,Kerala,Idukki,100.0,False
+Kerala,Kannur,Kerala,Kannur,100.0,False
+Kerala,Kasaragod,Kerala,Kasaragod,100.0,False
+Kerala,Kollam,Kerala,Kollam,100.0,False
+Kerala,Kottayam,Kerala,Kottayam,100.0,False
+Kerala,Kozhikode,Kerala,Kozhikode,100.0,False
+Kerala,Malappuram,Kerala,Malappuram,100.0,False
+Kerala,Palakkad,Kerala,Palakkad,100.0,False
+Kerala,Pathanamthitta,Kerala,Pathanamthitta,100.0,False
+Kerala,Thiruvananthapuram,Kerala,Thiruvananthapuram,100.0,False
+Kerala,Thrissur,Kerala,Thrissur,100.0,False
+Kerala,Wayanad,Kerala,Wayanad,100.0,False
+Lakshadweep,Lakshadweep,Lakshadweep,Lakshadweep,100.0,False
+Madhya Pradesh,Anuppur,Madhya Pradesh,Anuppur,100.0,False
+Madhya Pradesh,Balaghat,Madhya Pradesh,Balaghat,100.0,False
+Madhya Pradesh,Barwani,Madhya Pradesh,Barwani,100.0,False
+Madhya Pradesh,Betul,Madhya Pradesh,Betul,100.0,False
+Madhya Pradesh,Bhind,Madhya Pradesh,Bhind,100.0,False
+Madhya Pradesh,Bhopal,Madhya Pradesh,Bhopal,100.0,False
+Madhya Pradesh,Burhanpur,Madhya Pradesh,Burhanpur,100.0,False
+Madhya Pradesh,Chhatarpur,Madhya Pradesh,Chhatarpur,100.0,False
+Madhya Pradesh,Chhindwara,Madhya Pradesh,Chhindwara,100.0,False
+Madhya Pradesh,Damoh,Madhya Pradesh,Damoh,100.0,False
+Madhya Pradesh,Datia,Madhya Pradesh,Datia,100.0,False
+Madhya Pradesh,Dewas,Madhya Pradesh,Dewas,100.0,False
+Madhya Pradesh,Dhar,Madhya Pradesh,Dhar,100.0,False
+Madhya Pradesh,Guna,Madhya Pradesh,Guna,100.0,False
+Madhya Pradesh,Gwalior,Madhya Pradesh,Gwalior,100.0,False
+Madhya Pradesh,Harda,Madhya Pradesh,Harda,100.0,False
+Madhya Pradesh,Hoshangabad,Madhya Pradesh,Hoshangabad,100.0,False
+Madhya Pradesh,Indore,Madhya Pradesh,Indore,100.0,False
+Madhya Pradesh,Jabalpur,Madhya Pradesh,Jabalpur,100.0,False
+Madhya Pradesh,Jhabua,Madhya Pradesh,Jhabua,100.0,False
+Madhya Pradesh,Katni,Madhya Pradesh,Katni,100.0,False
+Madhya Pradesh,Mandsaur,Madhya Pradesh,Mandsaur,100.0,False
+Madhya Pradesh,Morena,Madhya Pradesh,Morena,100.0,False
+Madhya Pradesh,Neemuch,Madhya Pradesh,Neemuch,100.0,False
+Madhya Pradesh,Panna,Madhya Pradesh,Panna,100.0,False
+Madhya Pradesh,Raisen,Madhya Pradesh,Raisen,100.0,False
+Madhya Pradesh,Rajgarh,Madhya Pradesh,Rajgarh,100.0,False
+Madhya Pradesh,Ratlam,Madhya Pradesh,Ratlam,100.0,False
+Madhya Pradesh,Rewa,Madhya Pradesh,Rewa,100.0,False
+Madhya Pradesh,Sagar,Madhya Pradesh,Sagar,100.0,False
+Madhya Pradesh,Satna,Madhya Pradesh,Satna,100.0,False
+Madhya Pradesh,Sehore,Madhya Pradesh,Sehore,100.0,False
+Madhya Pradesh,Seoni,Madhya Pradesh,Seoni,100.0,False
+Madhya Pradesh,Shahdol,Madhya Pradesh,Shahdol,100.0,False
+Madhya Pradesh,Shajapur,Madhya Pradesh,Shajapur,100.0,False
+Madhya Pradesh,Shivpuri,Madhya Pradesh,Shivpuri,100.0,False
+Madhya Pradesh,Sidhi,Madhya Pradesh,Sidhi,100.0,False
+Madhya Pradesh,Singrauli,Madhya Pradesh,Singrauli,100.0,False
+Madhya Pradesh,Tikamgarh,Madhya Pradesh,Tikamgarh,100.0,False
+Madhya Pradesh,Ujjain,Madhya Pradesh,Ujjain,100.0,False
+Madhya Pradesh,Umaria,Madhya Pradesh,Umaria,100.0,False
+Madhya Pradesh,Vidisha,Madhya Pradesh,Vidisha,100.0,False
+Maharashtra,Ahmednagar,Maharashtra,Ahmednagar,100.0,False
+Maharashtra,Akola,Maharashtra,Akola,100.0,False
+Maharashtra,Amravati,Maharashtra,Amravati,100.0,False
+Maharashtra,Aurangabad,Maharashtra,Aurangabad,100.0,False
+Maharashtra,Bhandara,Maharashtra,Bhandara,100.0,False
+Maharashtra,Chandrapur,Maharashtra,Chandrapur,100.0,False
+Maharashtra,Dhule,Maharashtra,Dhule,100.0,False
+Maharashtra,Gadchiroli,Maharashtra,Gadchiroli,100.0,False
+Maharashtra,Hingoli,Maharashtra,Hingoli,100.0,False
+Maharashtra,Jalgaon,Maharashtra,Jalgaon,100.0,False
+Maharashtra,Jalna,Maharashtra,Jalna,100.0,False
+Maharashtra,Kolhapur,Maharashtra,Kolhapur,100.0,False
+Maharashtra,Latur,Maharashtra,Latur,100.0,False
+Maharashtra,Mumbai,Maharashtra,Mumbai,100.0,False
+Maharashtra,Nagpur,Maharashtra,Nagpur,100.0,False
+Maharashtra,Nanded,Maharashtra,Nanded,100.0,False
+Maharashtra,Nandurbar,Maharashtra,Nandurbar,100.0,False
+Maharashtra,Nashik,Maharashtra,Nashik,100.0,False
+Maharashtra,Osmanabad,Maharashtra,Osmanabad,100.0,False
+Maharashtra,Palghar,Maharashtra,Palghar,100.0,False
+Maharashtra,Parbhani,Maharashtra,Parbhani,100.0,False
+Maharashtra,Pune,Maharashtra,Pune,100.0,False
+Maharashtra,Raigarh,Maharashtra,Raigarh,100.0,False
+Maharashtra,Ratnagiri,Maharashtra,Ratnagiri,100.0,False
+Maharashtra,Sangli,Maharashtra,Sangli,100.0,False
+Maharashtra,Satara,Maharashtra,Satara,100.0,False
+Maharashtra,Sindhudurg,Maharashtra,Sindhudurg,100.0,False
+Maharashtra,Solapur,Maharashtra,Solapur,100.0,False
+Maharashtra,Thane,Maharashtra,Thane,100.0,False
+Maharashtra,Wardha,Maharashtra,Wardha,100.0,False
+Maharashtra,Washim,Maharashtra,Washim,100.0,False
+Maharashtra,Yavatmal,Maharashtra,Yavatmal,100.0,False
+Manipur,Churachandpur,Manipur,Churachandpur,100.0,False
+Manipur,Imphal East,Manipur,Imphal East,100.0,False
+Manipur,Imphal West,Manipur,Imphal West,100.0,False
+Manipur,Thoubal,Manipur,Thoubal,100.0,False
+Meghalaya,East Garo Hills,Meghalaya,East Garo Hills,100.0,False
+Meghalaya,East Khasi Hills,Meghalaya,East Khasi Hills,100.0,False
+Meghalaya,West Garo Hills,Meghalaya,West Garo Hills,100.0,False
+Meghalaya,West Khasi Hills,Meghalaya,West Khasi Hills,100.0,False
+Mizoram,Aizawl,Mizoram,Aizawl,100.0,False
+Mizoram,Champhai,Mizoram,Champhai,100.0,False
+Mizoram,Kolasib,Mizoram,Kolasib,100.0,False
+Mizoram,Lawngtlai,Mizoram,Lawngtlai,100.0,False
+Mizoram,Lunglei,Mizoram,Lunglei,100.0,False
+Mizoram,Mamit,Mizoram,Mamit,100.0,False
+Mizoram,Saiha,Mizoram,Saiha,100.0,False
+Mizoram,Serchhip,Mizoram,Serchhip,100.0,False
+Nagaland,Dimapur,Nagaland,Dimapur,100.0,False
+Nagaland,Kohima,Nagaland,Kohima,100.0,False
+Nagaland,Mokokchung,Nagaland,Mokokchung,100.0,False
+Nagaland,Tuensang,Nagaland,Tuensang,100.0,False
+Nagaland,Wokha,Nagaland,Wokha,100.0,False
+Nagaland,Zunheboto,Nagaland,Zunheboto,100.0,False
+Odisha,Balangir,Odisha,Balangir,100.0,False
+Odisha,Bargarh,Odisha,Bargarh,100.0,False
+Odisha,Bhadrak,Odisha,Bhadrak,100.0,False
+Odisha,Cuttack,Odisha,Cuttack,100.0,False
+Odisha,Dhenkanal,Odisha,Dhenkanal,100.0,False
+Odisha,Gajapati,Odisha,Gajapati,100.0,False
+Odisha,Ganjam,Odisha,Ganjam,100.0,False
+Odisha,Jagatsinghapur,Odisha,Jagatsinghapur,100.0,False
+Odisha,Jajapur,Odisha,Jajapur,100.0,False
+Odisha,Jharsuguda,Odisha,Jharsuguda,100.0,False
+Odisha,Kalahandi,Odisha,Kalahandi,100.0,False
+Odisha,Kandhamal,Odisha,Kandhamal,100.0,False
+Odisha,Kendrapara,Odisha,Kendrapara,100.0,False
+Odisha,Kendujhar,Odisha,Kendujhar,100.0,False
+Odisha,Khordha,Odisha,Khordha,100.0,False
+Odisha,Koraput,Odisha,Koraput,100.0,False
+Odisha,Malkangiri,Odisha,Malkangiri,100.0,False
+Odisha,Mayurbhanj,Odisha,Mayurbhanj,100.0,False
+Odisha,Nayagarh,Odisha,Nayagarh,100.0,False
+Odisha,Nuapada,Odisha,Nuapada,100.0,False
+Odisha,Puri,Odisha,Puri,100.0,False
+Odisha,Rayagada,Odisha,Rayagada,100.0,False
+Odisha,Sambalpur,Odisha,Sambalpur,100.0,False
+Odisha,Sundargarh,Odisha,Sundargarh,100.0,False
+Puducherry,Karaikal,Puducherry,Karaikal,100.0,False
+Puducherry,Puducherry,Puducherry,Puducherry,100.0,False
+Punjab,Amritsar,Punjab,Amritsar,100.0,False
+Punjab,Barnala,Punjab,Barnala,100.0,False
+Punjab,Bathinda,Punjab,Bathinda,100.0,False
+Punjab,Faridkot,Punjab,Faridkot,100.0,False
+Punjab,Fatehgarh Sahib,Punjab,Fatehgarh Sahib,100.0,False
+Punjab,Firozpur,Punjab,Firozpur,100.0,False
+Punjab,Hoshiarpur,Punjab,Hoshiarpur,100.0,False
+Punjab,Jalandhar,Punjab,Jalandhar,100.0,False
+Punjab,Kapurthala,Punjab,Kapurthala,100.0,False
+Punjab,Ludhiana,Punjab,Ludhiana,100.0,False
+Punjab,Mansa,Punjab,Mansa,100.0,False
+Punjab,Moga,Punjab,Moga,100.0,False
+Punjab,Patiala,Punjab,Patiala,100.0,False
+Punjab,Rupnagar,Punjab,Rupnagar,100.0,False
+Punjab,Sangrur,Punjab,Sangrur,100.0,False
+Punjab,Tarn Taran,Punjab,Tarn Taran,100.0,False
+Rajasthan,Ajmer,Rajasthan,Ajmer,100.0,False
+Rajasthan,Alwar,Rajasthan,Alwar,100.0,False
+Rajasthan,Banswara,Rajasthan,Banswara,100.0,False
+Rajasthan,Baran,Rajasthan,Baran,100.0,False
+Rajasthan,Barmer,Rajasthan,Barmer,100.0,False
+Rajasthan,Bharatpur,Rajasthan,Bharatpur,100.0,False
+Rajasthan,Bhilwara,Rajasthan,Bhilwara,100.0,False
+Rajasthan,Bikaner,Rajasthan,Bikaner,100.0,False
+Rajasthan,Bundi,Rajasthan,Bundi,100.0,False
+Rajasthan,Churu,Rajasthan,Churu,100.0,False
+Rajasthan,Dausa,Rajasthan,Dausa,100.0,False
+Rajasthan,Dungarpur,Rajasthan,Dungarpur,100.0,False
+Rajasthan,Ganganagar,Rajasthan,Ganganagar,100.0,False
+Rajasthan,Hanumangarh,Rajasthan,Hanumangarh,100.0,False
+Rajasthan,Jaipur,Rajasthan,Jaipur,100.0,False
+Rajasthan,Jaisalmer,Rajasthan,Jaisalmer,100.0,False
+Rajasthan,Jhalawar,Rajasthan,Jhalawar,100.0,False
+Rajasthan,Jhunjhunu,Rajasthan,Jhunjhunu,100.0,False
+Rajasthan,Jodhpur,Rajasthan,Jodhpur,100.0,False
+Rajasthan,Karauli,Rajasthan,Karauli,100.0,False
+Rajasthan,Kota,Rajasthan,Kota,100.0,False
+Rajasthan,Nagaur,Rajasthan,Nagaur,100.0,False
+Rajasthan,Pali,Rajasthan,Pali,100.0,False
+Rajasthan,Rajsamand,Rajasthan,Rajsamand,100.0,False
+Rajasthan,Sawai Madhopur,Rajasthan,Sawai Madhopur,100.0,False
+Rajasthan,Sikar,Rajasthan,Sikar,100.0,False
+Rajasthan,Sirohi,Rajasthan,Sirohi,100.0,False
+Rajasthan,Tonk,Rajasthan,Tonk,100.0,False
+Rajasthan,Udaipur,Rajasthan,Udaipur,100.0,False
+Tamil Nadu,Ariyalur,Tamil Nadu,Ariyalur,100.0,False
+Tamil Nadu,Chennai,Tamil Nadu,Chennai,100.0,False
+Tamil Nadu,Coimbatore,Tamil Nadu,Coimbatore,100.0,False
+Tamil Nadu,Cuddalore,Tamil Nadu,Cuddalore,100.0,False
+Tamil Nadu,Dharmapuri,Tamil Nadu,Dharmapuri,100.0,False
+Tamil Nadu,Dindigul,Tamil Nadu,Dindigul,100.0,False
+Tamil Nadu,Erode,Tamil Nadu,Erode,100.0,False
+Tamil Nadu,Kanniyakumari,Tamil Nadu,Kanniyakumari,100.0,False
+Tamil Nadu,Karur,Tamil Nadu,Karur,100.0,False
+Tamil Nadu,Krishnagiri,Tamil Nadu,Krishnagiri,100.0,False
+Tamil Nadu,Madurai,Tamil Nadu,Madurai,100.0,False
+Tamil Nadu,Nagapattinam,Tamil Nadu,Nagapattinam,100.0,False
+Tamil Nadu,Namakkal,Tamil Nadu,Namakkal,100.0,False
+Tamil Nadu,Perambalur,Tamil Nadu,Perambalur,100.0,False
+Tamil Nadu,Pudukkottai,Tamil Nadu,Pudukkottai,100.0,False
+Tamil Nadu,Ramanathapuram,Tamil Nadu,Ramanathapuram,100.0,False
+Tamil Nadu,Salem,Tamil Nadu,Salem,100.0,False
+Tamil Nadu,Sivaganga,Tamil Nadu,Sivaganga,100.0,False
+Tamil Nadu,Thanjavur,Tamil Nadu,Thanjavur,100.0,False
+Tamil Nadu,The Nilgiris,Tamil Nadu,The Nilgiris,100.0,False
+Tamil Nadu,Theni,Tamil Nadu,Theni,100.0,False
+Tamil Nadu,Tiruchirappalli,Tamil Nadu,Tiruchirappalli,100.0,False
+Tamil Nadu,Tirunelveli,Tamil Nadu,Tirunelveli,100.0,False
+Tamil Nadu,Tiruvannamalai,Tamil Nadu,Tiruvannamalai,100.0,False
+Tamil Nadu,Vellore,Tamil Nadu,Vellore,100.0,False
+Tamil Nadu,Virudhunagar,Tamil Nadu,Virudhunagar,100.0,False
+Telangana,Adilabad,Telangana,Adilabad,100.0,False
+Telangana,Hyderabad,Telangana,Hyderabad,100.0,False
+Telangana,Karimnagar,Telangana,Karimnagar,100.0,False
+Telangana,Khammam,Telangana,Khammam,100.0,False
+Telangana,Mahabubnagar,Telangana,Mahabubnagar,100.0,False
+Telangana,Medak,Telangana,Medak,100.0,False
+Telangana,Nalgonda,Telangana,Nalgonda,100.0,False
+Telangana,Nizamabad,Telangana,Nizamabad,100.0,False
+Telangana,Ranga Reddy,Telangana,Ranga Reddy,100.0,False
+Tripura,Dhalai,Tripura,Dhalai,100.0,False
+Tripura,North Tripura,Tripura,North Tripura,100.0,False
+Tripura,South Tripura,Tripura,South Tripura,100.0,False
+Tripura,West Tripura,Tripura,West Tripura,100.0,False
+Uttar Pradesh,Agra,Uttar Pradesh,Agra,100.0,False
+Uttar Pradesh,Aligarh,Uttar Pradesh,Aligarh,100.0,False
+Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh,Ambedkar Nagar,100.0,False
+Uttar Pradesh,Auraiya,Uttar Pradesh,Auraiya,100.0,False
+Uttar Pradesh,Azamgarh,Uttar Pradesh,Azamgarh,100.0,False
+Uttar Pradesh,Baghpat,Uttar Pradesh,Baghpat,100.0,False
+Uttar Pradesh,Bahraich,Uttar Pradesh,Bahraich,100.0,False
+Uttar Pradesh,Ballia,Uttar Pradesh,Ballia,100.0,False
+Uttar Pradesh,Balrampur,Uttar Pradesh,Balrampur,100.0,False
+Uttar Pradesh,Banda,Uttar Pradesh,Banda,100.0,False
+Uttar Pradesh,Bareilly,Uttar Pradesh,Bareilly,100.0,False
+Uttar Pradesh,Basti,Uttar Pradesh,Basti,100.0,False
+Uttar Pradesh,Bijnor,Uttar Pradesh,Bijnor,100.0,False
+Uttar Pradesh,Budaun,Uttar Pradesh,Budaun,100.0,False
+Uttar Pradesh,Bulandshahr,Uttar Pradesh,Bulandshahr,100.0,False
+Uttar Pradesh,Chandauli,Uttar Pradesh,Chandauli,100.0,False
+Uttar Pradesh,Chitrakoot,Uttar Pradesh,Chitrakoot,100.0,False
+Uttar Pradesh,Deoria,Uttar Pradesh,Deoria,100.0,False
+Uttar Pradesh,Etah,Uttar Pradesh,Etah,100.0,False
+Uttar Pradesh,Etawah,Uttar Pradesh,Etawah,100.0,False
+Uttar Pradesh,Faizabad,Uttar Pradesh,Faizabad,100.0,False
+Uttar Pradesh,Farrukhabad,Uttar Pradesh,Farrukhabad,100.0,False
+Uttar Pradesh,Fatehpur,Uttar Pradesh,Fatehpur,100.0,False
+Uttar Pradesh,Firozabad,Uttar Pradesh,Firozabad,100.0,False
+Uttar Pradesh,Gautam Buddha Nagar,Uttar Pradesh,Gautam Buddha Nagar,100.0,False
+Uttar Pradesh,Ghaziabad,Uttar Pradesh,Ghaziabad,100.0,False
+Uttar Pradesh,Ghazipur,Uttar Pradesh,Ghazipur,100.0,False
+Uttar Pradesh,Gonda,Uttar Pradesh,Gonda,100.0,False
+Uttar Pradesh,Gorakhpur,Uttar Pradesh,Gorakhpur,100.0,False
+Uttar Pradesh,Hamirpur,Uttar Pradesh,Hamirpur,100.0,False
+Uttar Pradesh,Hardoi,Uttar Pradesh,Hardoi,100.0,False
+Uttar Pradesh,Jalaun,Uttar Pradesh,Jalaun,100.0,False
+Uttar Pradesh,Jaunpur,Uttar Pradesh,Jaunpur,100.0,False
+Uttar Pradesh,Jhansi,Uttar Pradesh,Jhansi,100.0,False
+Uttar Pradesh,Kannauj,Uttar Pradesh,Kannauj,100.0,False
+Uttar Pradesh,Kanpur Dehat,Uttar Pradesh,Kanpur Dehat,100.0,False
+Uttar Pradesh,Kanpur Nagar,Uttar Pradesh,Kanpur Nagar,100.0,False
+Uttar Pradesh,Kaushambi,Uttar Pradesh,Kaushambi,100.0,False
+Uttar Pradesh,Kheri,Uttar Pradesh,Kheri,100.0,False
+Uttar Pradesh,Kushinagar,Uttar Pradesh,Kushinagar,100.0,False
+Uttar Pradesh,Lalitpur,Uttar Pradesh,Lalitpur,100.0,False
+Uttar Pradesh,Lucknow,Uttar Pradesh,Lucknow,100.0,False
+Uttar Pradesh,Mahoba,Uttar Pradesh,Mahoba,100.0,False
+Uttar Pradesh,Mainpuri,Uttar Pradesh,Mainpuri,100.0,False
+Uttar Pradesh,Mathura,Uttar Pradesh,Mathura,100.0,False
+Uttar Pradesh,Mau,Uttar Pradesh,Mau,100.0,False
+Uttar Pradesh,Meerut,Uttar Pradesh,Meerut,100.0,False
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Mirzapur,100.0,False
+Uttar Pradesh,Moradabad,Uttar Pradesh,Moradabad,100.0,False
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,100.0,False
+Uttar Pradesh,Pilibhit,Uttar Pradesh,Pilibhit,100.0,False
+Uttar Pradesh,Pratapgarh,Uttar Pradesh,Pratapgarh,100.0,False
+Uttar Pradesh,Rampur,Uttar Pradesh,Rampur,100.0,False
+Uttar Pradesh,Saharanpur,Uttar Pradesh,Saharanpur,100.0,False
+Uttar Pradesh,Sant Kabir Nagar,Uttar Pradesh,Sant Kabir Nagar,100.0,False
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Shahjahanpur,100.0,False
+Uttar Pradesh,Sitapur,Uttar Pradesh,Sitapur,100.0,False
+Uttar Pradesh,Sonbhadra,Uttar Pradesh,Sonbhadra,100.0,False
+Uttar Pradesh,Sultanpur,Uttar Pradesh,Sultanpur,100.0,False
+Uttar Pradesh,Unnao,Uttar Pradesh,Unnao,100.0,False
+Uttar Pradesh,Varanasi,Uttar Pradesh,Varanasi,100.0,False
+Uttarakhand,Almora,Uttarakhand,Almora,100.0,False
+Uttarakhand,Bageshwar,Uttarakhand,Bageshwar,100.0,False
+Uttarakhand,Chamoli,Uttarakhand,Chamoli,100.0,False
+Uttarakhand,Champawat,Uttarakhand,Champawat,100.0,False
+Uttarakhand,Dehradun,Uttarakhand,Dehradun,100.0,False
+Uttarakhand,Haridwar,Uttarakhand,Haridwar,100.0,False
+Uttarakhand,Nainital,Uttarakhand,Nainital,100.0,False
+Uttarakhand,Pauri Garhwal,Uttarakhand,Pauri Garhwal,100.0,False
+Uttarakhand,Pithoragarh,Uttarakhand,Pithoragarh,100.0,False
+Uttarakhand,Rudraprayag,Uttarakhand,Rudraprayag,100.0,False
+Uttarakhand,Tehri Garhwal,Uttarakhand,Tehri Garhwal,100.0,False
+Uttarakhand,Udham Singh Nagar,Uttarakhand,Udham Singh Nagar,100.0,False
+Uttarakhand,Uttarkashi,Uttarakhand,Uttarkashi,100.0,False
+West Bengal,Bankura,West Bengal,Bankura,100.0,False
+West Bengal,Birbhum,West Bengal,Birbhum,100.0,False
+West Bengal,Dakshin Dinajpur,West Bengal,Dinajpur Dakshin,100.0,False
+West Bengal,Darjeeling,West Bengal,Darjeeling,100.0,False
+West Bengal,Jalpaiguri,West Bengal,Jalpaiguri,100.0,False
+West Bengal,Kolkata,West Bengal,Kolkata,100.0,False
+West Bengal,Murshidabad,West Bengal,Murshidabad,100.0,False
+West Bengal,Nadia,West Bengal,Nadia,100.0,False
+West Bengal,Uttar Dinajpur,West Bengal,Dinajpur Uttar,100.0,False

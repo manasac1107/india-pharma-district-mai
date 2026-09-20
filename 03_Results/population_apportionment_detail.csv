@@ -1,0 +1,119 @@
+parent_state,parent_district,parent_population,member_state,member_district,is_parent_namesake,member_hospital_count,weight,method,apportioned_population
+Andhra Pradesh,Adilabad,2741239,Telangana,Komaram Bheem Asifabad,False,29.0,0.25,hospital_weighted,685310.0
+Andhra Pradesh,Adilabad,2741239,Telangana,Nirmal,False,29.0,0.25,hospital_weighted,685310.0
+Andhra Pradesh,Adilabad,2741239,Telangana,Mancherial,False,29.0,0.25,hospital_weighted,685310.0
+Andhra Pradesh,Adilabad,2741239,Telangana,Adilabad,True,29.0,0.25,hospital_weighted,685310.0
+Andhra Pradesh,Karimnagar,3776269,Telangana,Rajanna Sircilla,False,88.0,0.2558,hospital_weighted,966022.0
+Andhra Pradesh,Karimnagar,3776269,Telangana,Peddapalli,False,88.0,0.2558,hospital_weighted,966022.0
+Andhra Pradesh,Karimnagar,3776269,Telangana,Jagitial,False,80.0,0.2326,hospital_weighted,878202.0
+Andhra Pradesh,Karimnagar,3776269,Telangana,Karimnagar,True,88.0,0.2558,hospital_weighted,966022.0
+Andhra Pradesh,Khammam,2797370,Telangana,Bhadradri Kothagudem,False,61.0,0.5,hospital_weighted,1398685.0
+Andhra Pradesh,Khammam,2797370,Telangana,Khammam,True,61.0,0.5,hospital_weighted,1398685.0
+Andhra Pradesh,Mahbubnagar,4053028,Telangana,Jogulamba Gadwal,False,19.0,0.25,hospital_weighted,1013257.0
+Andhra Pradesh,Mahbubnagar,4053028,Telangana,Wanaparthy,False,19.0,0.25,hospital_weighted,1013257.0
+Andhra Pradesh,Mahbubnagar,4053028,Telangana,Nagarkurnool,False,19.0,0.25,hospital_weighted,1013257.0
+Andhra Pradesh,Mahbubnagar,4053028,Telangana,Mahabubnagar,True,19.0,0.25,hospital_weighted,1013257.0
+Andhra Pradesh,Medak,3033288,Telangana,Siddipet,False,40.0,0.3333,hospital_weighted,1011096.0
+Andhra Pradesh,Medak,3033288,Telangana,Sangareddy,False,40.0,0.3333,hospital_weighted,1011096.0
+Andhra Pradesh,Medak,3033288,Telangana,Medak,True,40.0,0.3333,hospital_weighted,1011096.0
+Andhra Pradesh,Nalgonda,3488809,Telangana,Suryapet,False,50.0,0.3333,hospital_weighted,1162936.0
+Andhra Pradesh,Nalgonda,3488809,Telangana,Yadadri Bhuvanagiri,False,50.0,0.3333,hospital_weighted,1162936.0
+Andhra Pradesh,Nalgonda,3488809,Telangana,Nalgonda,True,50.0,0.3333,hospital_weighted,1162936.0
+Andhra Pradesh,Nizamabad,2551335,Telangana,Kamareddy,False,38.0,0.5,hospital_weighted,1275668.0
+Andhra Pradesh,Nizamabad,2551335,Telangana,Nizamabad,True,38.0,0.5,hospital_weighted,1275668.0
+Andhra Pradesh,Rangareddy,5296741,Telangana,Vikarabad,False,83.0,0.3333,hospital_weighted,1765580.0
+Andhra Pradesh,Rangareddy,5296741,Telangana,MedchalMalkajgiri,False,83.0,0.3333,hospital_weighted,1765580.0
+Andhra Pradesh,Rangareddy,5296741,Telangana,Ranga Reddy,True,83.0,0.3333,hospital_weighted,1765580.0
+Andhra Pradesh,Warangal,3512576,Telangana,Jayashankar Bhupalapally,False,80.0,0.2,hospital_weighted,702515.0
+Andhra Pradesh,Warangal,3512576,Telangana,Mahabubabad,False,80.0,0.2,hospital_weighted,702515.0
+Andhra Pradesh,Warangal,3512576,Telangana,Jangoan,False,80.0,0.2,hospital_weighted,702515.0
+Andhra Pradesh,Warangal,3512576,Telangana,Warangal Rural,False,80.0,0.2,hospital_weighted,702515.0
+Andhra Pradesh,Warangal,3512576,Telangana,Warangal Urban,False,80.0,0.2,hospital_weighted,702515.0
+Arunachal Pradesh,East Siang,99214,Arunachal Pradesh,Siang,False,2.0,0.5,hospital_weighted,49607.0
+Arunachal Pradesh,East Siang,99214,Arunachal Pradesh,East Siang,True,2.0,0.5,hospital_weighted,49607.0
+Arunachal Pradesh,Kurung Kumey,92076,Arunachal Pradesh,Kra Daadi,False,,0.5,equal_split,46038.0
+Arunachal Pradesh,Kurung Kumey,92076,Arunachal Pradesh,Kurung Kumey,True,,0.5,equal_split,46038.0
+Arunachal Pradesh,Lohit,145726,Arunachal Pradesh,Namsai,False,,0.5,equal_split,72863.0
+Arunachal Pradesh,Lohit,145726,Arunachal Pradesh,Lohit,True,,0.5,equal_split,72863.0
+Arunachal Pradesh,Tirap,111975,Arunachal Pradesh,Longding,False,,0.5,equal_split,55988.0
+Arunachal Pradesh,Tirap,111975,Arunachal Pradesh,Tirap,True,,0.5,equal_split,55988.0
+Assam,Dhubri,1949258,Assam,South Salmara Mancachar,False,15.0,0.8824,hospital_weighted,1719934.0
+Assam,Dhubri,1949258,Assam,Dhubri,True,2.0,0.1176,hospital_weighted,229324.0
+Assam,Jorhat,1092256,Assam,Majuli,False,1.0,0.0667,hospital_weighted,72817.0
+Assam,Jorhat,1092256,Assam,Jorhat,True,14.0,0.9333,hospital_weighted,1019439.0
+Assam,Karbi Anglong,956313,Assam,West Karbi Anglong,False,1.0,0.5,hospital_weighted,478156.0
+Assam,Karbi Anglong,956313,Assam,Karbi Anglong,True,1.0,0.5,hospital_weighted,478156.0
+Assam,Nagaon,2823768,Assam,Hojai,False,3.0,0.5,hospital_weighted,1411884.0
+Assam,Nagaon,2823768,Assam,Nagaon,True,3.0,0.5,hospital_weighted,1411884.0
+Assam,Sivasagar,1151050,Assam,Charaideo,False,15.0,0.6522,hospital_weighted,750685.0
+Assam,Sivasagar,1151050,Assam,Sivasagar,True,8.0,0.3478,hospital_weighted,400365.0
+Assam,Sonitpur,1924110,Assam,Biswanath,False,8.0,0.5333,hospital_weighted,1026192.0
+Assam,Sonitpur,1924110,Assam,Sonitpur,True,7.0,0.4667,hospital_weighted,897918.0
+Chhattisgarh,Bastar,1413199,Chhattisgarh,Kodagaon,False,7.0,0.5,hospital_weighted,706600.0
+Chhattisgarh,Bastar,1413199,Chhattisgarh,Bastar,True,7.0,0.5,hospital_weighted,706600.0
+Chhattisgarh,Bilaspur,2663629,Chhattisgarh,Mungeli,False,3.0,0.5,equal_split_implausible_ratio,1331814.0
+Chhattisgarh,Bilaspur,2663629,Chhattisgarh,Bilaspur,True,64.0,0.5,equal_split_implausible_ratio,1331814.0
+Chhattisgarh,Dakshin Bastar Dantewada,533638,Chhattisgarh,Sukma,False,6.0,0.5,hospital_weighted,266819.0
+Chhattisgarh,Dakshin Bastar Dantewada,533638,Chhattisgarh,Dantewada,True,6.0,0.5,hospital_weighted,266819.0
+Chhattisgarh,Durg,3343872,Chhattisgarh,Balod,False,64.0,0.3333,hospital_weighted,1114624.0
+Chhattisgarh,Durg,3343872,Chhattisgarh,Bemetara,False,64.0,0.3333,hospital_weighted,1114624.0
+Chhattisgarh,Durg,3343872,Chhattisgarh,Durg,True,64.0,0.3333,hospital_weighted,1114624.0
+Chhattisgarh,Raipur,4063872,Chhattisgarh,Baloda Bazar,False,170.0,0.3333,hospital_weighted,1354624.0
+Chhattisgarh,Raipur,4063872,Chhattisgarh,Gariyaband,False,170.0,0.3333,hospital_weighted,1354624.0
+Chhattisgarh,Raipur,4063872,Chhattisgarh,Raipur,True,170.0,0.3333,hospital_weighted,1354624.0
+Chhattisgarh,Surguja,2359886,Chhattisgarh,Surajpur,False,12.0,0.3333,hospital_weighted,786629.0
+Chhattisgarh,Surguja,2359886,Chhattisgarh,Balrampur,False,12.0,0.3333,hospital_weighted,786629.0
+Chhattisgarh,Surguja,2359886,Chhattisgarh,Surguja,True,12.0,0.3333,hospital_weighted,786629.0
+Gujarat,Bhavnagar,2880365,Gujarat,Botad,False,81.0,0.5,hospital_weighted,1440182.0
+Gujarat,Bhavnagar,2880365,Gujarat,Bhavnagar,True,81.0,0.5,hospital_weighted,1440182.0
+Gujarat,Jamnagar,2160119,Gujarat,Devbhumi Dwarka,False,73.0,0.5,hospital_weighted,1080060.0
+Gujarat,Jamnagar,2160119,Gujarat,Jamnagar,True,73.0,0.5,hospital_weighted,1080060.0
+Gujarat,Junagadh,2743082,Gujarat,Gir Somnath,False,68.0,0.5,hospital_weighted,1371541.0
+Gujarat,Junagadh,2743082,Gujarat,Junagadh,True,68.0,0.5,hospital_weighted,1371541.0
+Gujarat,Panch Mahals,2390776,Gujarat,Mahisagar,False,97.0,0.5,hospital_weighted,1195388.0
+Gujarat,Panch Mahals,2390776,Gujarat,Panchmahal,True,97.0,0.5,hospital_weighted,1195388.0
+Gujarat,Rajkot,3804558,Gujarat,Morbi,False,20.0,0.1042,hospital_weighted,396308.0
+Gujarat,Rajkot,3804558,Gujarat,Rajkot,True,172.0,0.8958,hospital_weighted,3408250.0
+Gujarat,Sabar Kantha,2428589,Gujarat,Aravali,False,135.0,0.5,hospital_weighted,1214294.0
+Gujarat,Sabar Kantha,2428589,Gujarat,Sabarkantha,True,135.0,0.5,hospital_weighted,1214294.0
+Gujarat,Vadodara,4165626,Gujarat,Chhota Udaipur,False,482.0,0.5,hospital_weighted,2082813.0
+Gujarat,Vadodara,4165626,Gujarat,Vadodara,True,482.0,0.5,hospital_weighted,2082813.0
+Haryana,Bhiwani,1634445,Haryana,Dadri,False,71.0,0.5462,hospital_weighted,892658.0
+Haryana,Bhiwani,1634445,Haryana,Bhiwani,True,59.0,0.4538,hospital_weighted,741787.0
+Madhya Pradesh,Shajapur,1512681,Madhya Pradesh,Agar Malwa,False,5.0,0.5,hospital_weighted,756340.0
+Madhya Pradesh,Shajapur,1512681,Madhya Pradesh,Shajapur,True,5.0,0.5,hospital_weighted,756340.0
+Maharashtra,Thane,11060148,Maharashtra,Palghar,False,1.0,0.5,equal_split_implausible_ratio,5530074.0
+Maharashtra,Thane,11060148,Maharashtra,Thane,True,725.0,0.5,equal_split_implausible_ratio,5530074.0
+Meghalaya,Jaintia Hills,395124,Meghalaya,East Jaintia Hills,False,5.0,0.5,hospital_weighted,197562.0
+Meghalaya,Jaintia Hills,395124,Meghalaya,West Jaintia Hills,False,5.0,0.5,hospital_weighted,197562.0
+Meghalaya,South Garo Hills,142334,Meghalaya,South West Garo Hills,False,28.0,0.5,hospital_weighted,71167.0
+Meghalaya,South Garo Hills,142334,Meghalaya,South Garo Hills,True,28.0,0.5,hospital_weighted,71167.0
+Meghalaya,West Garo Hills,643291,Meghalaya,North Garo Hills,False,28.0,0.5,hospital_weighted,321646.0
+Meghalaya,West Garo Hills,643291,Meghalaya,West Garo Hills,True,28.0,0.5,hospital_weighted,321646.0
+Meghalaya,West Khasi Hills,383461,Meghalaya,South West Khasi Hills,False,5.0,0.5,hospital_weighted,191730.0
+Meghalaya,West Khasi Hills,383461,Meghalaya,West Khasi Hills,True,5.0,0.5,hospital_weighted,191730.0
+NCT of Delhi,East,1709346,NCT of Delhi,Shahdara,False,,0.5,equal_split,854673.0
+NCT of Delhi,East,1709346,NCT of Delhi,East,True,,0.5,equal_split,854673.0
+NCT of Delhi,South,2731929,NCT of Delhi,South East,False,,0.5,equal_split,1365964.0
+NCT of Delhi,South,2731929,NCT of Delhi,South,True,,0.5,equal_split,1365964.0
+Punjab,Firozpur,2029074,Punjab,Fazilka,False,39.0,0.4239,hospital_weighted,860151.0
+Punjab,Firozpur,2029074,Punjab,Firozpur,True,53.0,0.5761,hospital_weighted,1168923.0
+Punjab,Gurdaspur,2298323,Punjab,Pathankot,False,39.0,0.325,hospital_weighted,746955.0
+Punjab,Gurdaspur,2298323,Punjab,Gurudaspur,True,81.0,0.675,hospital_weighted,1551368.0
+Tripura,North Tripura,693947,Tripura,Unakoti,False,,0.5,equal_split,346974.0
+Tripura,North Tripura,693947,Tripura,North Tripura,True,7.0,0.5,equal_split,346974.0
+Tripura,South Tripura,876001,Tripura,Gomati,False,,0.5,equal_split,438000.0
+Tripura,South Tripura,876001,Tripura,South Tripura,True,9.0,0.5,equal_split,438000.0
+Tripura,West Tripura,1725739,Tripura,Khowai,False,,0.3333,equal_split,575246.0
+Tripura,West Tripura,1725739,Tripura,Sepahijala,False,,0.3333,equal_split,575246.0
+Tripura,West Tripura,1725739,Tripura,West Tripura,True,20.0,0.3333,equal_split,575246.0
+Uttar Pradesh,Ghaziabad,4681645,Uttar Pradesh,Hapur,False,11.0,0.5,equal_split_implausible_ratio,2340822.0
+Uttar Pradesh,Ghaziabad,4681645,Uttar Pradesh,Ghaziabad,True,260.0,0.5,equal_split_implausible_ratio,2340822.0
+Uttar Pradesh,Moradabad,4772006,Uttar Pradesh,Sambhal,False,31.0,0.2366,hospital_weighted,1129253.0
+Uttar Pradesh,Moradabad,4772006,Uttar Pradesh,Moradabad,True,100.0,0.7634,hospital_weighted,3642753.0
+Uttar Pradesh,Muzaffarnagar,4143512,Uttar Pradesh,Shamli,False,20.0,0.2222,hospital_weighted,920780.0
+Uttar Pradesh,Muzaffarnagar,4143512,Uttar Pradesh,Muzaffarnagar,True,70.0,0.7778,hospital_weighted,3222732.0
+Uttar Pradesh,Sultanpur,3797117,Uttar Pradesh,Amethi,False,19.0,0.3585,hospital_weighted,1361231.0
+Uttar Pradesh,Sultanpur,3797117,Uttar Pradesh,Sultanpur,True,34.0,0.6415,hospital_weighted,2435886.0
+West Bengal,Barddhaman,7717563,West Bengal,Paschim Barddhaman,False,117.0,0.5,hospital_weighted,3858782.0
+West Bengal,Barddhaman,7717563,West Bengal,Purba Barddhaman,False,117.0,0.5,hospital_weighted,3858782.0
